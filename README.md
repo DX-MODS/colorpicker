@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.com/ZIYAN-SER/colorbook.svg?branch=master)](https://travis-ci.com/ZIYAN-SER/colorpicker) [![GitHub release](https://img.shields.io/github/release/liyasthomas/colorbook/all.svg)](https://github.com/liyasthomas/colorbook/releases/latest) [![repo size](https://img.shields.io/github/repo-size/liyasthomas/colorbook.svg)](https://github.com/liyasthomas/colorbook/archive/master.zip) [![license](https://img.shields.io/github/license/liyasthomas/colorbook.svg)](https://github.com/liyasthomas/colorbook/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/liyasthomas/colorbook/issues) [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://liyas-thomas.firebaseapp.com) [![Donate](https://img.shields.io/badge/$-donate-ff69b4.svg)](https://www.paypal.me/liyascthomas)
 
-# <img src="icons/icon-48x48.png" alt="colorbook" width="32"> Colorbook
+# <img src="icons/icon-48x48.png" alt="colorbook" width="32"> Colorpicker
 
-### 🎨 Color scheme for UI design by [Liyas Thomas](https://github.com/ZIYAN-SER)
+### 🎨 Color scheme for Developers By [ZIYAN](https://github.com/ZIYAN-SER)
 
 <div align="center">
   <br>

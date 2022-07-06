@@ -6,8 +6,8 @@
 
 <div align="center">
   <br>
-  <img src="icons/screely.png" alt="colorbook" width="100%">
-  <img src="icons/screely2.png" alt="colorbook" width="100%">
+  <img src="icons/screely.png" alt="colorpicker" width="100%">
+  <img src="icons/screely2.png" alt="colorpicker" width="100%">
   <br>
 </div>
 
@@ -32,6 +32,7 @@
 1. Pick a color
 2. View demo
 3. Copy color codes
+4. Use it in your Projects
 
 You're done!
 
@@ -60,7 +61,7 @@ We use [Travis CI](https://travis-ci.com) for continuous integration. Check out 
 
 ## Versioning
 
-This project is developed by [Liyas Thomas](https://github.com/liyasthomas) using the [Semantic Versioning specification](https://semver.org). For the versions available, see the [releases on this repository](https://github.com/liyasthomas/colorbook/releases).
+This project is developed by [ZIYAN](https://github.com/ZIYAN-SER) using the [Semantic Versioning specification](https://semver.org). For the versions available, see the [releases on this repository](https://github.com/ZIYAN-SER/colorpicker/releases).
 
 ---
 
@@ -73,7 +74,7 @@ See the [CHANGELOG](CHANGELOG.md) file for details.
 ## Authors
 
 ### Lead Developers
-* [**Liyas Thomas**](https://github.com/ZIYAN-SER) - *Author*
+* [**ZIYAN**](https://github.com/ZIYAN-SER) - *Author*
 
 ### Thanks
 * [StackOverflow](https://stackoverflow.com)

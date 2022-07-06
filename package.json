@@ -1,0 +1,16 @@
+{
+	"name": "Colorpicker",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ZIYAN-SER/Colorpicker.git"
+	},
+	"description": "Color schemes for Developers",
+	"author": "Ziyan KP",
+	"version": "0.0.1",
+	"devDependencies": {
+		"jshint": "^2.10.2"
+	},
+	"scripts": {
+		"test": "jshint travis.js"
+	}
+}

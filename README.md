@@ -2,7 +2,7 @@
 
 # <img src="icons/icon-48x48.png" alt="colorbook" width="32"> Colorbook
 
-### 🎨 Color scheme for UI design by [Liyas Thomas](https://github.com/liyasthomas)
+### 🎨 Color scheme for UI design by [Liyas Thomas](https://github.com/ZIYAN-SER)
 
 <div align="center">
   <br>
@@ -27,7 +27,7 @@
 
 ## Demo
 
-[https://liyasthomas.github.io/colorbook](https://liyasthomas.github.io/colorbook)
+[https://ZIYAN-SER.github.io/colorpicker](https://ZIYAN-SER.github.io/colorpicker)
 
 1. Pick a color
 2. View demo
@@ -73,12 +73,12 @@ See the [CHANGELOG](CHANGELOG.md) file for details.
 ## Authors
 
 ### Lead Developers
-* [**Liyas Thomas**](https://github.com/liyasthomas) - *Author*
+* [**Liyas Thomas**](https://github.com/ZIYAN-SER) - *Author*
 
 ### Thanks
 * [StackOverflow](https://stackoverflow.com)
 
-See the list of [contributors](https://github.com/liyasthomas/colorbook/graphs/contributors) who participated in this project.
+See the list of [contributors](https://github.com/ZIYAN-SER/colorpicker/graphs/contributors) who participated in this project.
 
 ---
 

@@ -1,3 +1,8 @@
+  #### TOTAL REPO VIEWS
+![Visitor Count](https://profile-counter.glitch.me/ZIYAN-SER/count.svg)
+</p>
+
+
 [![Build Status](https://travis-ci.com/ZIYAN-SER/colorbook.svg?branch=master)](https://travis-ci.com/ZIYAN-SER/colorpicker) [![GitHub release](https://img.shields.io/github/release/ZIYAN-SER/colorpicker/all.svg)](https://github.com/ZIYAN-SER/colorpicker/releases/latest) [![repo size](https://img.shields.io/github/repo-size/ZIYAN-SER/colorpicker.svg)](https://github.com/ZIYAN-SER/colorpicker/archive/master.zip) [![license](https://img.shields.io/github/license/ZIYAN-SER/colorpicker.svg)](https://github.com/ZIYAN-SER/colorpicker/blob/master/LICENSE) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ZIYAN-SER/colorpicker/issues) [![Website](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=website)](https://liyas-thomas.firebaseapp.com) [![Donate](https://img.shields.io/badge/$-donate-ff69b4.svg)](https://www.paypal.me/liyascthomas)
 
 # <img src="icons/icon-48x48.png" alt="colorbook" width="32"> Colorpicker
